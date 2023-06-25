@@ -1,0 +1,10 @@
+﻿  ConsoleApplication15.cpp
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(75,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(76,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(81,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(86,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(100,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(101,37): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\1anna\source\repos\курсач точно курсач\ConsoleApplication15\ConsoleApplication15.cpp(132,23): warning C4018: >: несоответствие типов со знаком и без знака
+  ConsoleApplication15.vcxproj -> C:\Users\1anna\source\repos\курсач точно курсач\Debug\ConsoleApplication15.exe
